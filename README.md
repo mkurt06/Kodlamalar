@@ -1,0 +1,2 @@
+# Kodlamalar
+Yazdığım kodlarım burdadır
